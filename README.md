@@ -157,8 +157,8 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Joann Vuong
-Emmanuel Ajakaiye - [Github](https://github.com/emmyajaks) / [Twitter]((https://twitter.com/emmyajaks)
-Natoli Abera - [Github](https://github.com/) / 
+Emmanuel Ajakaiye - [Github](https://github.com/emmyajaks) / [Twitter]((https://twitter.com/emma_ajakaiye)
+Natoli Abera - [Github](https://github.com/Natihdjdjdjdjdjdjdjdjdjd) / 
 
 ## License
 Public Domain. No copy write protection. 
